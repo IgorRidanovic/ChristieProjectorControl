@@ -1,6 +1,6 @@
-#Christie Cinema Projector Control
+# Christie Cinema Projector Control
 
-##Projector Models
+## Projector Models
 
 - Eclipse
 - M RGB Series
